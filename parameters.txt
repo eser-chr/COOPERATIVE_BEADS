@@ -1,0 +1,9 @@
+SIMS,1
+pi,1000
+epsilon,1000
+step_prob,0 
+divider,1000000
+X,10000
+T,20000
+N,1500
+blocks,10
